@@ -1,9 +1,9 @@
 Markus Laine
 - Student and Future Talent, Interested in User Friendly Tech, Design and Services
 
-- I'm a second year student at Aalto University, studying Information Networks and minoring in Computer Science
+- I'm a third year student at Aalto University, on my second year studying Information Networks and minoring in Computer Science
 
-- Currently I'm learning about Data structures and Algorithms, will soon dive into Web Software Development.
+- Currently I'm learning about Web Development and R&D.
 
 - Contact me: markus.laine(a)aalto.fi
 
