@@ -1,11 +1,11 @@
 Markus Laine
-- Student and Future Talent, Interested in User Friendly Tech, Design and Services
+- Bringing creativity, social savvy, and innovative problem-solving to the world of software products. Looking for new learning opportunities for next summer! 
 
-- I'm a third year student at Aalto University, on my second year studying Information Networks and minoring in Computer Science
+- I'm a fourth year student at Aalto University, on my third year studying Information Networks. Currently starting my Master's Studies.
 
-- Currently I'm learning about Web Development and R&D.
+- Currently I'm learning more about Full-Stack Development.
 
-- Contact me: markus.laine(a)aalto.fi
+- Contact me: laine.markus@outlook.com
 
 <!---
 lainemarkus/lainemarkus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
