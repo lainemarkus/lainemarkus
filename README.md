@@ -5,6 +5,8 @@ Markus Laine
 
 - Currently I'm learning more about Full-Stack Development.
 
+- See my portfolio page: https://markuslaine.fi
+
 - Contact me: laine.markus@outlook.com
 
 <!---
