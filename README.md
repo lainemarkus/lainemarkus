@@ -1,5 +1,4 @@
 Markus Laine
-- Bringing creativity, social savvy, and innovative problem-solving to the world of software products. Looking for new learning opportunities for next summer! 
 
 - I'm a fourth year student at Aalto University, on my third year studying Information Networks. Currently starting my Master's Studies.
 
