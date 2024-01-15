@@ -1,8 +1,8 @@
 Markus Laine
 
-- I'm a fifth year student at Aalto University, on my fourth year of study in Information Networks. I started my Master's Studies in 2023, aiming to graduate in 2025.
+- I'm a fifth year student at Aalto University, on my fourth year of study in Information Networks. I started my Master's Studies in 2023, majoring in Software Engineering and Architectures and aiming to graduate in 2025.
 
-- Currently I'm learning more about Enterprise Systems and Architecture, Service Design and Strategic Management.
+- Currently I'm learning more about Software Architecture, Growth Hacking and Leadership.
 
 - See my portfolio page: https://markuslaine.fi
 
